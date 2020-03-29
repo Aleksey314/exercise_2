@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsList", "AnimalsList\AnimalsList.csproj", "{A4CE0EC2-3001-411A-B418-B194EB22495E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsListLibrary", "AnimalsListLibrary\AnimalsListLibrary.csproj", "{4EABAD81-30B6-413E-9500-6C3F0825843C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4CE0EC2-3001-411A-B418-B194EB22495E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CE0EC2-3001-411A-B418-B194EB22495E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CE0EC2-3001-411A-B418-B194EB22495E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CE0EC2-3001-411A-B418-B194EB22495E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EABAD81-30B6-413E-9500-6C3F0825843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EABAD81-30B6-413E-9500-6C3F0825843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EABAD81-30B6-413E-9500-6C3F0825843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EABAD81-30B6-413E-9500-6C3F0825843C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FC2F0A-BFC4-44CB-8A61-00D95A77C194}
+	EndGlobalSection
+EndGlobal
